@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning lua and C++
+<p>🌱 I’m currently learning <b>lua</b> and <b>C++</b>.</p>
+<p>🎮 My favorite games are <b>Roblox</b>, <b>Minecraft</b>, and <b>Kovaaks</b>.</p>
+<p>⚡ Fun fact: I like making games in <b>Roblox Studio</b>.</p>
